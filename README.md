@@ -29,15 +29,14 @@
     email: <vithusan.business@gmail.com><br>
   
   ## Test
-  undefined
   
-  We haven't implemented the test features yet, eventhough it is best practice to start development with first writing the test cases.Not withstanding, if you would like to share your test methods, feel free to get in touch with us via:
-    GitHub: [SVG-Logo-Generator - link](https://github.com/undefined/SVG-Logo-Generator)<br>
+  We haven't implemented the test features yet, eventhough it is best practice to start development with first writing the test cases. Not withstanding, if you would like to share your test methods, feel free to get in touch with us via:
+    GitHub: [SVG-Logo-Generator - link](https://github.com/VithusanU/SVG-Logo-Generator)<br>
     email: <vithusan.business@gmail.com><br>
   
   ## Questions
   If you have any questions, you can reach us via:
-    GitHub: [SVG-Logo-Generator - link](https://github.com/undefined/SVG-Logo-Generator)<br>
+    GitHub: [SVG-Logo-Generator - link](https://github.com/VithusanU/SVG-Logo-Generator)<br>
     email: <vithusan.business@gmail.com><br>
   
   ### Authors Notes: 
