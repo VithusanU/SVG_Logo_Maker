@@ -2,7 +2,7 @@ const fs = require('fs');
 const inquirer = require('inquirer');
 // This const jest essentially allows for testing using jest module 
 const jest =require('jest');
-const svg = require('../lib');
+const svg = require('./lib/svGenerator');
 
 
 

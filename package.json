@@ -14,5 +14,8 @@
     "url": "SVG_Logo_Maker"
   },
   "author": "VithusanU",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
 }

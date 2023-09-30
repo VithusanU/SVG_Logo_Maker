@@ -29,14 +29,14 @@ function renderLicenseBadge(license) {
   
   // TODO: Create a function to generate markdown for README
   function generateMarkdown(data) {
-    var tOc = "";
+    var TableOfContents = "";
     var footNote = "";
     var licenseLink = renderLicenseLink(data.license);
     var licenseBadge = renderLicenseBadge(data.license);
     var licenseSection = renderLicenseSection(data.license);
   
-    data.tOc.forEach(element => {
-      tOc += `- [${element}](#${element.toLowerCase()})
+    data.TableOfContents.forEach(element => {
+        TableOfContents += `- [${element}](#${element.toLowerCase()})
   `;
     });
   
@@ -55,7 +55,7 @@ function renderLicenseBadge(license) {
   ${data.description}
   
   ## Table of Contents
-  ${tOc}
+  ${TableOfContents}
   
   ## Installation
   ${data.installation}
